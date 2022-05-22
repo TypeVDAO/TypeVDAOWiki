@@ -2,7 +2,7 @@
 title: Type Ⅴ DAO Wiki
 description: Welcome to Type Ⅴ DAO Wiki
 published: true
-date: 2022-05-22T08:13:58.452Z
+date: 2022-05-22T08:25:08.374Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-17T12:04:35.623Z
@@ -22,3 +22,11 @@ dateCreated: 2022-04-17T12:04:35.623Z
 
 ## 说明
 Type V DAO Wiki 目前处于起步阶段，功能基本齐全，但其内容较为频发，待大家踊跃维护必将成为全网之Web3宝典！
+
+## 细节
+
+### 灾备
+按照目前配置，程序会定时将Wiki上的页面与Git源[https://github.com/TypeVDAO/TypeVDAOWiki](https://github.com/TypeVDAO/TypeVDAOWiki)同步，如出现重大事故，页面主要内容可从Git源找回。（至于页面底下的评论可能要丢）
+
+### 实现
+基于开源软件 https://github.com/requarks/wiki
