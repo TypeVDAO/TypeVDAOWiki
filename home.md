@@ -2,7 +2,7 @@
 title: Type Ⅴ DAO Wiki
 description: Welcome to Type Ⅴ DAO Wiki
 published: true
-date: 2022-05-22T08:09:16.525Z
+date: 2022-05-22T08:13:58.452Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-17T12:04:35.623Z
